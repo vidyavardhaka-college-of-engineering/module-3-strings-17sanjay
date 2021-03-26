@@ -1,4 +1,4 @@
-Complete the given program with string declaration/initialization & read/print the string
+
 // Instructions:-
 //1) Initially, declare a string with size
 //2) read the input string from user 
